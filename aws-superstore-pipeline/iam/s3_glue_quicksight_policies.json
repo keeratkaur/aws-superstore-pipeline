@@ -1,0 +1,27 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": [
+        "s3:GetObject",
+        "s3:ListBucket"
+      ],
+      "Resource": [
+        "arn:aws:s3:::heysql",
+        "arn:aws:s3:::heysql/*",
+        "arn:aws:s3:::aws-glue-assets-571600833464-us-east-2",
+        "arn:aws:s3:::aws-glue-assets-571600833464-us-east-2/*"
+      ]
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "glue:*",
+        "athena:*",
+        "quicksight:*"
+      ],
+      "Resource": "*"
+    }
+  ]
+}
