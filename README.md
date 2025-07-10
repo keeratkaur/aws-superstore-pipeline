@@ -16,7 +16,7 @@ This project demonstrates a serverless data pipeline using AWS services to proce
 
 ## 📊 Dashboard Preview
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard-quickSight.png)
 
 ---
 
