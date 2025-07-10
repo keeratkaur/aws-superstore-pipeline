@@ -16,7 +16,7 @@ This project demonstrates a serverless data pipeline using AWS services to proce
 
 ## 📊 Dashboard Preview
 
-![Dashboard](./screenshots/dashboard-quickSight.png)
+<img width="1918" height="708" alt="image" src="https://github.com/user-attachments/assets/1dfa9ed1-1321-4eed-8090-bc4feac8583f" />
 
 ---
 
@@ -35,13 +35,13 @@ This project demonstrates a serverless data pipeline using AWS services to proce
 
 ## 📌 Architecture Diagram
 
-![Architecture](./architecture-diagram.png)
+<img width="364" height="729" alt="image" src="https://github.com/user-attachments/assets/6db72026-5084-4ca4-939f-2989eadf7aec" />
 
 ---
 
 ## 📥 Source Data
 
-Superstore Sales data from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+Superstore Sales data from [[Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ---
 
